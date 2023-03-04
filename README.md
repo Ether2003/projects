@@ -1,18 +1,78 @@
 ### This repository contains a list of projects programming projects
 
-- a personal portfolio website
-- a github readme
-- a web app using sql-node-express-react
-- a web app using sql-django-svelete
-- a mini-twitter or mini-reddit clone
-- a file/image sharing web application
-- a github profile generator using the github users api
-- a web app using graphql and redis
-- a queue-based waiting web service
-- an implementation of data-structures
-- an implementation of algorithms
-- a text-based adventure game using trees
-- a mini neofetch clone in rust or c/c++
-- a mini terminal text editor
-- a minecraft plugin 
-- a discord logger bot that generates reports
+<table>
+  <tr>
+    <th>personal website</th>
+    <th>In Progress</th>
+  </tr>
+  
+  <tr>
+    <th>github readme</th>
+    <th>in Progress</th>
+  </tr>
+  
+  <tr>
+    <th>nosql-node-express-react web app</th>
+    <th>Completed</th>
+  </tr>
+  
+  <tr>
+    <th>sql-node-express-react web app</th>
+    <th>Completed</th>
+  </tr>
+  
+  <tr>
+    <th>file/image sharing web app</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>mini-twitter</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>mini-reddit</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>graphql & redis web app (study cards)</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>queue-based waiting web service</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>datastructure implementations</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>algorithm implementations</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>text-based adventure game using trees</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>neofetch clone</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>minecraft plugin</th>
+    <th>Not Completed</th>
+  </tr>
+  
+  <tr>
+    <th>discord logger bot that generates reports</th>
+    <th>Not Completed</th>
+  </tr>
+</table>
