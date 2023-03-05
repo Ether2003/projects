@@ -1,5 +1,3 @@
-### This repository contains a list of projects programming projects
-
 <table>
   <tr>
     <th>personal website</th>
