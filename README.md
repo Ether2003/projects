@@ -35,7 +35,7 @@
   </tr>
   
   <tr>
-    <th>graphql & redis web app (study cards)</th>
+    <th>study cards web app</th>
     <th>Not Completed</th>
   </tr>
   
