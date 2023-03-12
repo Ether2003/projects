@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <th>toy flower utility</th>
-    <th>In Progress</th>
-  </tr>
-  
+<table>  
   <tr>
     <th>personal website</th>
     <th>In Progress</th>
@@ -21,6 +16,11 @@
   
   <tr>
     <th>sql-node-express-react web app</th>
+    <th>Completed</th>
+  </tr>
+  
+  <tr>
+    <th>cli flower utility</th>
     <th>Completed</th>
   </tr>
 
